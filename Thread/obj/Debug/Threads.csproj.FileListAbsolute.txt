@@ -1,0 +1,12 @@
+F:\Visual C#\GrapITsoft\Thread\bin\Debug\Thread.exe.config
+F:\Visual C#\GrapITsoft\Thread\bin\Debug\Thread.exe
+F:\Visual C#\GrapITsoft\Thread\bin\Debug\Thread.pdb
+F:\Visual C#\GrapITsoft\Thread\obj\Debug\Threads.csprojResolveAssemblyReference.cache
+F:\Visual C#\GrapITsoft\Thread\obj\Debug\Thread.exe
+F:\Visual C#\GrapITsoft\Thread\obj\Debug\Thread.pdb
+D:\桌面\GrapITsoft\Thread\bin\Debug\Thread.exe.config
+D:\桌面\GrapITsoft\Thread\obj\Debug\Thread.exe
+D:\桌面\GrapITsoft\Thread\obj\Debug\Thread.pdb
+D:\桌面\GrapITsoft\Thread\bin\Debug\Thread.exe
+D:\桌面\GrapITsoft\Thread\bin\Debug\Thread.pdb
+D:\桌面\GrapITsoft\Thread\obj\Debug\Threads.csprojResolveAssemblyReference.cache
